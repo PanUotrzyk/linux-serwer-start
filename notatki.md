@@ -1,0 +1,3 @@
+- SSH: port 22
+- systemctl start/stop/status
+- sudo vs su
